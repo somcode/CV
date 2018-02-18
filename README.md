@@ -1,18 +1,37 @@
 ## Somayeh Alimohammadi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+Hello prospective employers! I'm Somayeh, currently in my extensive training to become a Junior Developer. I have got a Bachelor’s degree in Applied Mathematics and can clearly feel how that helps me to analyse and understand the structure, architecture, and the concept of the various codes efficiently.
+I enjoy working in challenging environments and developing or learning in close interaction and cooperation with colleagues. For this reason, I have chosen a career in Software development with its continuous problems and infinite depth of learning. I have repeatedly demonstrated my ability to teach myself new skills and then excel in adapting to any situation and in turn, passing my learning on to others.
+Overcoming a new challenge in my learning process makes me more enthusiastic to learn and do more.
+It is extremely important to me that my coding skills be of the highest quality and in the long run I would like to be to address main challenges we face in my area of expertise.
+I am looking to work with an innovative team developing products for its customers with passion to write clean codes combined with creative thinking. I would like to follow best practices from the initial implantation stage to final delivery of demonstrable products to the costumer and strengthen my interpersonal and professional skills on regular basis. 
+
+
 
 ## Skills
 
-#### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+####  Collaborator
 
-- Experience
-- Achievements
-- Evidence
+I am a team player. To me, it is essentially important to make sure having a clear consensus on the direction and an agreement on the mission for an efficient collaboration. I enjoy understanding different people's motivators and aligning a team around a shared goal. 
 
-#### Another Skill
+#### Logical thinking
+
+I have always found it relatively easy to see the bigger picture and connect the dots to make sense of a new situation or task.
+
+#### Attention to details
+
+Having a keen eye for the fine details has been vital in my previous roles. My roles in the past have always involved excessive level of detailed assessments combined with creative thinking to progress with my tasks. 
+
+
+#### Languages and frameworks
+
+. HTML 
+. CSS 
+. Bootstrap
+
+
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -21,9 +40,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February 2018 to May 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,13 +54,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Azad University of Tehran (2001 to 2005)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc in Mathematics
 
-#### Any other qualifications
+
 
 ## Experience
 
