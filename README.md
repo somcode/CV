@@ -10,10 +10,10 @@
 </div>
 
 
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience) | [Contact](#contact)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience) 
 
-A Junior full stack developer and recent graduate of Makers Academy, with a background in mathematics and previous experience in education, and Accounting Analyst.
-I was selected as a [Fellowship student](https://fellowship.makersacademy.com) from a competitive field after spending few months teaching myself how to code.
+A junior full stack developer and recent graduate of Makers Academy, with a background in Mathematics and previous experience in education, and Accounting Analyst.
+I was selected as a [Fellowship student](https://fellowship.makersacademy.com) in a competitive field after spending few months teaching myself how to code.
 I'm looking forward to joining a supportive environment where I can continue to develop my technical skills.
 
 
@@ -21,20 +21,20 @@ I'm looking forward to joining a supportive environment where I can continue to 
 
 
 #### Communication
-The use of XP practises meant that we were assigned a new pair partner each day. This was something that I really got a lot out of and I believe it helped progress our learning a lot more than if we were on our own.
+The use of XP practices meant that we were assigned a new pair partner each day. This was something that I really got a lot out of and I believe it helped us progress our learning a lot more than if we were on our own.
 
 
 #### Teamwork
-In my past experience it was very important to keep everyone well-informed. During a particular month with an unexpected amount of work I found this incredibly useful and especially important when I had to avoid overlapping tasks in the team. I was working in a team of 10 experts with daily, Weekly, and monthly deadlines.
+In my past experiences, it was very important to keep everyone well-informed. During a particular month with an unexpected amount of work, I found this incredibly useful and especially important when I had to avoid overlapping tasks in the team. I was working in a team of 10 experts with daily, weekly, and monthly deadlines.
 
 
 #### Logical thinking
-Studying Maths helped me develop skills in logical thinking, problem-solving and decision-making.
-My years in accounting analyst have also played to my analytical strength, preparing me for life as a developer.
+Studying Math helped me develop skills in logical thinking, problem-solving and decision-making.
+My few years as an Accounting Analyst have also played to my analytical strength, preparing me for life as a developer.
 
 #### Attention to details
 Having a keen eye for the fine details has been vital in my previous roles.
-During my time working as a member of the accounts team at University I learnt to be very precise, every single piece of information had to be just right. During our monthly closed periods accuracy was key. The accounts had to be kept up to date and ready to be presented without delays, it was my responsibility to take care of the final draft and make sure everything was perfect.
+During my time working as a member of the accounts team, I learned to be very precise, as every single piece of information had to be just right. During our monthly closed periods, accuracy was key. The accounts had to be kept up to date and ready to be presented without delays, it was my responsibility to take care of the final draft and make sure everything was perfect.
 
 
 ## <a name="makers_projects">Makers Academy Projects</a>
@@ -73,13 +73,8 @@ Highly selective, full-time programming bootcamp which teaches the following tec
 
 ## <a name="experience">Experience</a>
 
-**Azad University(IAU)** (2005 - 2008)    
+**Azad University (IAU)** (Sep 2005 - Dec 2008)    
 *Accounting Analyst*
 
 **Private Tutor**
 
-
-## <a name="contact">Contact</a>
-
-
-Please don't hesitate to contact me on [LinkedIn ](https://www.linkedin.com/feed/) at any time if you are looking for a passionate, Junior Developer who prides themselves on using software craftsmanship best practices.
