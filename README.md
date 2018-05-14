@@ -21,7 +21,7 @@ I'm looking forward to joining a supportive environment where I can continue to 
 
 
 #### Communication
-The use of XP practices meant that we were assigned a new pair partner each day. This was something that I really got a lot out of and I believe it helped us progress our learning a lot more than if we were on our own.
+The use of XP practices meant that we were assigned a new pair partner each day. This was something that I really got a lot out of and I believe it helped me progress my learning a lot more than if i were on my own.
 
 
 #### Teamwork
