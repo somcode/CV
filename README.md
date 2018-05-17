@@ -10,31 +10,11 @@
 </div>
 
 
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) |  [Education](#education) | [Experience](#experience) 
+[Makers Academy Projects](#makers_projects) | [Skills](#skills) |   [Education](#education) | [Experience](#experience) 
 
 A junior full stack developer and recent graduate of Makers Academy, with a background in Mathematics and previous experience in education, and Accounting Analyst.
 I was selected as a [Fellowship student](https://fellowship.makersacademy.com) in a competitive field after spending few months teaching myself how to code.
 I'm looking forward to joining a supportive environment where I can continue to develop my technical skills.
-
-
-## <a name="skills">Skills</a>
-
-
-#### Communication
-The use of XP practices meant that we were assigned a new pair partner each day. This was something that I really got a lot out of and I believe it helped me progress my learning a lot more than if i were on my own.
-
-
-#### Teamwork
-In my past experiences, it was very important to keep everyone well-informed. During a particular month with an unexpected amount of work, I found this incredibly useful and especially important when I had to avoid overlapping tasks in the team. I was working in a team of 10 experts with daily, weekly, and monthly deadlines.
-
-
-#### Logical thinking
-Studying Math helped me develop skills in logical thinking, problem-solving and decision-making.
-My few years as an Accounting Analyst have also played to my analytical strength, preparing me for life as a developer.
-
-#### Attention to details
-Having a keen eye for the fine details has been vital in my previous roles.
-During my time working as a member of the accounts team, I learned to be very precise, as every single piece of information had to be just right. During our monthly closed periods, accuracy was key. The accounts had to be kept up to date and ready to be presented without delays, it was my responsibility to take care of the final draft and make sure everything was perfect.
 
 
 ## <a name="makers_projects">Makers Academy Projects</a>
@@ -48,6 +28,26 @@ Examples of skills developed while working on projects at Makers Academy:
 [Airport Application ](https://github.com/somcode/Airport-challenge2) | Simulating Airport Air Traffic Controls System   | Ruby |  RSpec |
 [AceBook ](https://github.com/somcode/acebook-Underdogs) | A social network app to recreate Facebook | Ruby on Rails, Html/CSS |  RSpec, Capybara |
 
+
+
+## <a name="skills">Skills</a>
+
+
+#### Communication
+The use of XP practices meant that we were assigned a new pair partner each day. This was something that I really got a lot out of and I believe it helped me progress my learning a lot more than if I were on my own.
+
+
+#### Teamwork
+In my past experience, it was very important to keep everyone well-informed. During a particular month with an unexpected amount of work, I found this incredibly useful and especially important when I had to avoid overlapping tasks in the team. I was working in a team of 10 experts with daily, weekly, and monthly deadlines.
+
+
+#### Logical thinking
+Studying Maths helped me develop skills in logical thinking, problem-solving and decision-making.
+My few years as an Accounting Analyst have also played to my analytical strength, preparing me for life as a developer.
+
+#### Attention to detail
+Having a keen eye for the fine details has been vital in my previous roles.
+During my time working as a member of the accounts team, I learned to be very precise, as every single piece of information had to be just right. During our monthly closed periods, accuracy was key. The accounts had to be kept up to date and ready to be presented without delays, it was my responsibility to take care of the final draft and make sure everything was perfect.
 
 
 ## <a name="Education">Education</a>
