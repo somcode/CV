@@ -56,7 +56,7 @@ During my time working as a member of the accounts team, I learned to be very pr
 
 Highly selective, full-time programming bootcamp which teaches the following technologies and methodologies among others:
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP values
 - Pair programming
 - Ruby, Rails, JavaScript
